@@ -68,8 +68,8 @@
 
 
 .remote-video{
-    width:100%;
-    height:auto;
+    /* width:%; */
+    height:200px;
     max-height: 90vh;
 }
 
@@ -93,7 +93,7 @@
 
 
 .local-video{
-    bottom: 0;
+    bottom: 50px;
     left: 0;
     position: fixed;
     width:15vw;
